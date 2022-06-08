@@ -46,7 +46,8 @@ PRODUCT_PACKAGES += \
     EvolutionSystemUIResTarget \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
-    OPlusSystemUIResTarget
+    OPlusSystemUIResTarget \
+    OPlusWifiResTarget
 
 # PowerShare
 PRODUCT_PACKAGES += \
